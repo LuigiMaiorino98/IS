@@ -22,5 +22,6 @@ public class Calcolatrice {
         public int Moltiplicazione(){
             return x*y;
         }
+        public int Resto(){return x%y;}
     }
 
